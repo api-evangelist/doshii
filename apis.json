@@ -1,0 +1,57 @@
+{
+    "name": "Doshii",
+    "description": "<p>App &amp; POS Integration - Streamlining the connection between POS and your ordering, payment, reservation, data, &amp; loyalty apps.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28750-doshii-io.jpg",
+    "tags": [
+        "have api",
+        "point of sale",
+        "pos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/doshii\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Doshii",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28750-doshii-io.jpg",
+            "humanURL": "https:\/\/doshii.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/doshii-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/doshii.io\/api-integration-blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/doshii-pty-ltd"
+        },
+        {
+            "type": "Email",
+            "url": "info@doshii.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/doshii-io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DoshiiAPI"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/doshii.io"
+        }
+    ]
+}
